@@ -1,3 +1,39 @@
+/* 
+
+*/
+
 body {
-	background-color: blue
+	background-color: blue;
+}
+
+#field {
+	width: 500px;
+	background-color: grey;
+	border: 8px solid black;
+}
+
+#title {
+	text-align: center;
+	color: red;
+}
+
+
+.pictures {
+	height: 100px;
+	width: auto;
+	border: 2px solid black;
+	margin-left: 35%;
+	margin-top: 5%;
+	bottom-margin: 5px;
+
+}
+
+.name {
+	text-align: center;
+	color: yellow;
+}
+
+.description {
+	margin-left: 20px;
+	margin-right: 20px;
 }
