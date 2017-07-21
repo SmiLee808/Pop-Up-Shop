@@ -10,7 +10,7 @@
 - HTML Basics and CSS Basics
 
 ## Requirements
-- 
+- Intentionally left blank.
 
 ## Desired Outcomes
 - Create a static (no action) e-commerce website using your knowledge of HTML and CSS.
@@ -28,8 +28,30 @@ IF working with JUST GIT HUB
 - FORK in Git HUB
 - Edit FORK and CLONE
 
+FOR HTML ( index.html)
+ -Created DIVS and Headers and Paragraphs
+ -Confirm or Create link to Style Sheet.
+ -Coduct Sanity Check
+ 
+ -ADD A TITLE of your SHOP
+ -At Least 4 pictures of Items you are showing (Img Tag)
+ -Title Each Picture (Header Tag)
+ -Provide a Description (Paragraph Tag) for each Picture
+ 
+ FOR STYLE SHEET ( styles.css)
+ - Background Color
+ - Add a Border 
+ - Center Picture
+ - Center Title
+ - Indent - Right Align - Description
+ - Change Text Color
+ - Change Text Size
 
 ###Stretch Goals
+- Add different background colors
+- Add a Button 
+- Add a Form Field.
+
 
 ### Resources
 
